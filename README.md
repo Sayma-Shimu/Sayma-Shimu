@@ -6,12 +6,19 @@
   </a>
 </p>
 
+### 👩‍💻 About Me  
+I am a passionate Frontend Developer who loves building modern, responsive, and user-friendly web applications.  
+I enjoy turning ideas into interactive digital experiences using React and modern UI technologies.  
+Currently, I am focused on improving my skills by working on real-world projects and exploring Next.js.  
+I am always eager to learn new technologies and grow as a developer.
+
+### 🌱 Current Activities  
+- 🔭 I’m currently working on frontend-based real-world projects  
+- 🌱 I’m exploring **Next.js**   
+- 🏗 I’m building a **ShopApp** project  
+- 📚 Improving my problem-solving and JavaScript skills  
 
 
-
-
-
-🚀 **Passionate Frontend Developer** | Turning ideas into interactive, pixel-perfect web experiences
 
 ### 🔧 Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
