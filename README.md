@@ -1,4 +1,4 @@
-![cover photo](https://i.postimg.cc/rwLT1NSp/Black-and-White-Gradient-Personal-Linked-In-Banner.png)
+![cover photo](https://i.postimg.cc/KvDfJ8LF/Black-and-White-Gradient-Personal-Linked-In-Banner-(1).png)
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=saymashimu&label=Profile%20views&color=0e75b6&style=flat" alt="saymashimu" /> </span> 
 <p align="center">
   <a href="https://github.com/sayma-shimu">
